@@ -15,3 +15,6 @@ This project allows users to generate disposable email addresses to receive emai
 2. aiosmtpd server receives emails from any SMTP client and stores them in the backend.
 3.User clicks “Refresh” → The latest emails are fetched via API and displayed on the frontend.
 4.Each email address automatically expires after 10 minutes.
+
+
+[Watch Demo](test.mp4)
