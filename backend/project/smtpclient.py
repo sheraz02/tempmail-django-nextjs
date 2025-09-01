@@ -12,7 +12,7 @@ from email import encoders
 SMTP_SERVER = "localhost"   # Or your mail server e.g. smtp.gmail.com
 SMTP_PORT = 1025            # If testing with local server like `python -m smtpd -c DebuggingServer -n localhost:1025`
 SENDER_EMAIL = "sender@example.com"
-RECEIVER_EMAIL = "jx1z0wkd93@sheraz.com"
+RECEIVER_EMAIL = "q8pusfqrmq@sheraz.com"
 
 # --------------------
 # 1. PLAIN TEXT EMAIL
