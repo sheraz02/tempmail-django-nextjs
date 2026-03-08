@@ -16,9 +16,6 @@ This project allows users to generate disposable email addresses to receive emai
 3.User clicks “Refresh” → The latest emails are fetched via API and displayed on the frontend.
 4.Each email address automatically expires after 10 minutes.
 
-
-[Watch Demo](test.mp4)
-
-
+## Project Demo
 https://github.com/user-attachments/assets/2477459a-896d-4bc1-90ab-e1e09d967f3f
 
