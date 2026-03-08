@@ -18,3 +18,7 @@ This project allows users to generate disposable email addresses to receive emai
 
 
 [Watch Demo](test.mp4)
+
+
+https://github.com/user-attachments/assets/2477459a-896d-4bc1-90ab-e1e09d967f3f
+
